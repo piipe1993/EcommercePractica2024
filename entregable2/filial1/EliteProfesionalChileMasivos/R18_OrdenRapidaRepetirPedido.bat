@@ -1,0 +1,1 @@
+gradle clean test --tests *eliteprofessional.runners.R18_OrdenRapidaRepetirPedido aggregate & cd target/site/serenity & index.html

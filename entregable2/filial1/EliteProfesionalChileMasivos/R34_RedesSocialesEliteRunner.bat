@@ -1,0 +1,1 @@
+gradle clean test --tests *eliteprofessional.runners.R34_RedesSocialesEliteRunner aggregate & cd target/site/serenity & index.html

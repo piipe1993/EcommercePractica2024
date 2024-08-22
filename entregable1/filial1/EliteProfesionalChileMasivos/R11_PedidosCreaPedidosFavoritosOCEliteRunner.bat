@@ -1,0 +1,1 @@
+gradle clean test --tests *eliteprofessional.runners.R11_PedidosCreaPedidosFavoritosOCEliteRunner aggregate & cd target/site/serenity & index.html

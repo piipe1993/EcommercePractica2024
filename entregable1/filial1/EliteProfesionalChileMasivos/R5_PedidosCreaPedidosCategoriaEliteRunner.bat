@@ -1,0 +1,1 @@
+gradle clean test --tests *eliteprofessional.runners.R5_PedidosCreaPedidosCategoriaEliteRunner aggregate & cd target/site/serenity & index.html

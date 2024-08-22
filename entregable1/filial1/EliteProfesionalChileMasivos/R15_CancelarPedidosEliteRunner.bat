@@ -1,0 +1,1 @@
+gradle clean test --tests *eliteprofessional.runners.R15_CancelarPedidosEliteRunner aggregate & cd target/site/serenity & index.html

@@ -1,0 +1,1 @@
+gradle clean test --tests *eliteprofessional.runners.R24_FuncionamientoCorrectoCarruselCategoriasEliteRunner aggregate & cd target/site/serenity & index.html

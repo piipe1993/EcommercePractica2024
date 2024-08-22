@@ -1,0 +1,1 @@
+gradle clean test --tests *eliteprofessional.runners.R14_SeguimientoPedidosEliteRunner aggregate & cd target/site/serenity & index.html

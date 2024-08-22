@@ -1,0 +1,1 @@
+gradle clean test --tests *eliteprofessional.runners.R16_PedidoSinStockCubicajeEliteRunner aggregate & cd target/site/serenity & index.html

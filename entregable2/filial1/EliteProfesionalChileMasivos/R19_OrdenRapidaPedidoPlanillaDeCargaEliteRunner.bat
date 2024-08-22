@@ -1,0 +1,1 @@
+gradle clean test --tests *eliteprofessional.runners.R19_OrdenRapidaPedidoPlanillaDeCargaEliteRunner aggregate & cd target/site/serenity & index.html

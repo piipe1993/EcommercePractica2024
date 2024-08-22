@@ -1,0 +1,1 @@
+gradle clean test --tests *eliteprofessional.runners.R32_PoliticaDeCookiesEliteRunner aggregate & cd target/site/serenity & index.html

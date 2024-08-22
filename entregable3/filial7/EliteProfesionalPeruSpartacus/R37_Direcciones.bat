@@ -1,0 +1,1 @@
+gradle clean test --tests *eliteprofessional.runners.R37_Direcciones aggregate & cd target/site/serenity & index.html

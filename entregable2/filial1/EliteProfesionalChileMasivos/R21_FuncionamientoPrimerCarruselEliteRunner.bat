@@ -1,0 +1,1 @@
+gradle clean test --tests *eliteprofessional.runners.R21_FuncionamientoPrimerCarruselEliteRunner aggregate & cd target/site/serenity & index.html

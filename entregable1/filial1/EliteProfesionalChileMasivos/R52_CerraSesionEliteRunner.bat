@@ -1,0 +1,1 @@
+gradle clean test --tests *eliteprofessional.runners.R52_CerraSesionEliteRunner aggregate & cd target/site/serenity & index.html

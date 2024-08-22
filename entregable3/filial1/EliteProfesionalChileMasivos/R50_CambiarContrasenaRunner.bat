@@ -1,0 +1,1 @@
+gradle clean test --tests *eliteprofessional.runners.R50_CambiarContrasenaRunner aggregate & cd target/site/serenity & index.html

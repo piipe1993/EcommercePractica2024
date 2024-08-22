@@ -1,0 +1,1 @@
+gradle clean test --tests *eliteprofessional.runners.R31_PoliticaDeDatosYPrivacidadEliteRunner aggregate & cd target/site/serenity & index.html

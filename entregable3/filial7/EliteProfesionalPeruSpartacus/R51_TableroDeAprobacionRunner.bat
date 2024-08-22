@@ -1,0 +1,1 @@
+gradle clean test --tests *eliteprofessional.runners.R51_TableroDeAprobacionRunner aggregate & cd target/site/serenity & index.html

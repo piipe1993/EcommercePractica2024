@@ -1,0 +1,1 @@
+gradle clean test --tests *eliteprofessional.runners.R12_PedidoCategoriaProductoBonificadoRunner aggregate & cd target/site/serenity & index.html

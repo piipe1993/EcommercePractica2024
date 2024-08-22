@@ -1,0 +1,1 @@
+gradle clean test --tests *eliteprofessional.runners.R35_RecuperarContrasenhaRunner aggregate & cd target/site/serenity & index.html

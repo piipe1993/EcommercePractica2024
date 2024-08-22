@@ -1,0 +1,1 @@
+gradle clean test --tests *eliteprofessional.runners.R2_CotizacionCrearCotizacionCategoriaEliteRunner aggregate & cd target/site/serenity & index.html

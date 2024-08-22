@@ -1,0 +1,1 @@
+gradle clean test --tests *eliteprofessional.runners.R6_PedidosCrearPedidosBarraBusquedaElieRunner aggregate & cd target/site/serenity & index.html

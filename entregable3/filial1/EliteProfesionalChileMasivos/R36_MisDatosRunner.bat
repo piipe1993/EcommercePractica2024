@@ -1,0 +1,1 @@
+gradle clean test --tests *eliteprofessional.runners.R36_MisDatosRunner aggregate & cd target/site/serenity & index.html

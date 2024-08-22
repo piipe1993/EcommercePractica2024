@@ -1,0 +1,1 @@
+gradle clean test --tests *eliteprofessional.runners.R42_EstadoDeCuentaRunner aggregate & cd target/site/serenity & index.html
